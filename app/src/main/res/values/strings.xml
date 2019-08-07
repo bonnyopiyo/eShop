@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ANDROID SHOP APP</string>
+    <string name="popular_products">Popular products</string>
+    <string name="browse_category">Browser Category</string>
+</resources>
